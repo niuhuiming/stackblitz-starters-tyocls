@@ -3,11 +3,14 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "Bananice's Space"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
+      text: Home
+      link: /study/第一篇文档
+    - theme: alt
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
